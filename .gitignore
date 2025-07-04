@@ -1,0 +1,13 @@
+.cache/
+.config/
+.ssh/
+*.log
+*.json
+*.whl
+.bash_history
+.gitconfig
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
